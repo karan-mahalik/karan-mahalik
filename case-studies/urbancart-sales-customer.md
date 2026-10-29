@@ -1,5 +1,7 @@
 # UrbanCart Sales & Customer Analytics
 
+**🌐 Professional portfolio:** [Explore Karan Mahalik's data analyst and Power BI portfolio](https://karan-mahalik-portfolio.vercel.app/)
+
 **Focus:** e-commerce revenue, customer behavior, returns and delivery  
 **Tools reported in resume:** Excel, SQL Server, T-SQL, Power BI, DAX  
 **Evidence status:** This summary comes from Karan Mahalik's resume. A dedicated [UrbanCartAnalysis repository](https://github.com/karan-mahalik/UrbanCartAnalysis) now contains documentation and illustrative SQL/DAX templates, while the original raw/cleaned Excel workbooks, two SQL scripts and PBIX are now **uploaded and organized**; the analytics and report refresh remain **unverified**. Analysis and dashboards have not been independently reproduced.
