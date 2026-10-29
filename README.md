@@ -15,7 +15,7 @@ I work with SQL, Power BI, Excel, and Python to turn structured data into clear 
 
 ## Featured analytics repositories (primary focus)
 
-Both repositories now have documented project structures, illustrative SQL/DAX and upload locations. **The authentic datasets, original SQL and Power BI report files are still awaiting upload and validation.** Project descriptions below are from my supplied resume.
+Both repositories now contain the uploaded original data files, original SQL scripts, Power BI reports, and supporting project documentation, organized into dedicated folders. **The files have not yet been independently validated for data correctness, SQL execution, privacy or Power BI refresh.** Project descriptions below are from my supplied resume.
 
 | Project | Scope described in my resume | GitHub project |
 | --- | --- | --- |
@@ -46,4 +46,4 @@ Junior **Data Analyst**, **Power BI Developer**, and **SQL / BI Analyst** opport
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/karan-mahalik-122438369/) · [karanmahalik88@gmail.com](mailto:karanmahalik88@gmail.com)
 
-_The analytics repositories are published as starter documentation; original datasets, SQL and PBIX reports remain pending. No certifications, runtime results or performance numbers are claimed without evidence._
+_Uploaded source assets are organized in both repositories; SQL Server and Power BI runtime validation and data-quality/privacy review remain pending. No certifications or performance numbers are claimed without evidence._

@@ -2,7 +2,7 @@
 
 **Focus:** e-commerce revenue, customer behavior, returns and delivery  
 **Tools reported in resume:** Excel, SQL Server, T-SQL, Power BI, DAX  
-**Evidence status:** This summary comes from Karan Mahalik's resume. A dedicated [UrbanCartAnalysis repository](https://github.com/karan-mahalik/UrbanCartAnalysis) now contains documentation and illustrative SQL/DAX templates, while the authentic dataset, original SQL and PBIX are **not yet uploaded**. Analysis and dashboards have not been independently reproduced.
+**Evidence status:** This summary comes from Karan Mahalik's resume. A dedicated [UrbanCartAnalysis repository](https://github.com/karan-mahalik/UrbanCartAnalysis) now contains documentation and illustrative SQL/DAX templates, while the original raw/cleaned Excel workbooks, two SQL scripts and PBIX are now **uploaded and organized**; the analytics and report refresh remain **unverified**. Analysis and dashboards have not been independently reproduced.
 
 ## Business questions
 
@@ -19,14 +19,14 @@
 4. Analyzed order frequency, repeat customers, returns, payment methods and delivery metrics.
 5. Built a two-page Power BI report with relationships, DAX, KPI cards and slicers.
 
-## Repository and evidence to publish next
+## Repository and evidence to validate next
 
 [Open UrbanCartAnalysis](https://github.com/karan-mahalik/UrbanCartAnalysis)
 
-- De-identified sample data, a data dictionary, and documented relationships
-- SQL views, analytical queries and validation checks
-- A Power BI `.pbix` report or screenshots and measure definitions
-- Verifiable findings, assumptions and data-quality limitations
+- Review [raw](https://github.com/karan-mahalik/UrbanCartAnalysis/blob/main/data/raw/UrbanCart_Raw_Sales_Data.xlsx) and [cleaned](https://github.com/karan-mahalik/UrbanCartAnalysis/blob/main/data/cleaned/UrbanCart_Cleaned_Sales_Data.xlsx) workbooks for privacy, data quality and provenance.
+- Review [SQL data modelling](https://github.com/karan-mahalik/UrbanCartAnalysis/blob/main/sql/UrbanCartDataModelling.sql) and [SQL analysis](https://github.com/karan-mahalik/UrbanCartAnalysis/blob/main/sql/UrbanCartAnalysis.sql) safely in a development SQL Server environment.
+- Independently open and refresh the [actual PBIX](https://github.com/karan-mahalik/UrbanCartAnalysis/blob/main/powerbi/UrbanCartDashboardPresntation.pbix); reconcile KPI definitions and capture real screenshots.
+- Publish only verified results and clearly document limitations.
 
 **This page summarizes resume claims; it does not verify the reported implementation or its outputs.**
 
