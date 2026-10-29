@@ -13,14 +13,16 @@ I work with SQL, Power BI, Excel, and Python to turn structured data into clear 
 - **Supporting skills:** Python fundamentals, pandas, NumPy, relational databases, Git and GitHub.
 - **Full-stack development:** React, JavaScript, Spring Boot, Node.js, Express, REST APIs and database-backed workflows.
 
-## Analytics case studies
+## Featured analytics repositories (primary focus)
 
-The following projects are described in my resume. **The detailed SQL, Power BI, and dataset artifacts have not yet been published in the repositories available here.** These summaries document scope, not independently verified live dashboards.
+Both repositories now have documented project structures, illustrative SQL/DAX and upload locations. **The authentic datasets, original SQL and Power BI report files are still awaiting upload and validation.** Project descriptions below are from my supplied resume.
 
-| Project | Work described in my resume | Case study |
+| Project | Scope described in my resume | GitHub project |
 | --- | --- | --- |
-| **Pizza Sales Performance Analysis** | SQL sales KPIs, order trends, product comparisons, Power BI reporting and DAX measures | [Read summary](case-studies/pizza-sales-performance.md) |
-| **UrbanCart Sales & Customer Analytics** | Data checks, SQL views, revenue trends, customer behavior, returns and Power BI reporting | [Read summary](case-studies/urbancart-sales-customer.md) |
+| **Pizza Sales Performance Analysis** | Sales and order KPIs, demand trends, product comparisons, Power BI reporting and DAX measures | [PizzaSalesAnalysis](https://github.com/karan-mahalik/PizzaSalesAnalysis) |
+| **UrbanCart Sales & Customer Analytics** | Data quality, SQL views, revenue trends, repeat customers, returns, delivery metrics and Power BI reporting | [UrbanCartAnalysis](https://github.com/karan-mahalik/UrbanCartAnalysis) |
+
+Each project includes a [pizza case-study summary](case-studies/pizza-sales-performance.md) or [UrbanCart case-study summary](case-studies/urbancart-sales-customer.md) showing the planned evidence and verification status. Example SQL and DAX are labeled as **illustrative**, not original or independently executed.
 
 ## Public development projects
 
@@ -44,4 +46,4 @@ Junior **Data Analyst**, **Power BI Developer**, and **SQL / BI Analyst** opport
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/karan-mahalik-122438369/) · [karanmahalik88@gmail.com](mailto:karanmahalik88@gmail.com)
 
-_Claims about analytics case studies are based on the supplied resume; repository-based verification is still pending. No certifications or performance numbers are claimed without evidence._
+_The analytics repositories are published as starter documentation; original datasets, SQL and PBIX reports remain pending. No certifications, runtime results or performance numbers are claimed without evidence._
