@@ -2,7 +2,7 @@
 
 **Focus:** sales performance, demand patterns, and product KPIs  
 **Tools reported in resume:** SQL Server, T-SQL, Power BI, DAX  
-**Evidence status:** This is a case-study summary based on Karan Mahalik's resume. SQL scripts, data, and a Power BI report are **not yet published in the accessible GitHub repositories**. Results have not been independently reproduced.
+**Evidence status:** This is a case-study summary based on Karan Mahalik's resume. A dedicated [PizzaSalesAnalysis repository](https://github.com/karan-mahalik/PizzaSalesAnalysis) now contains source-grounded documentation and illustrative SQL/DAX templates; the authentic dataset, original SQL and PBIX are **not yet uploaded**. Results have not been independently reproduced.
 
 ## Business questions
 
@@ -17,7 +17,9 @@
 3. Compared product categories, sizes and individual item performance.
 4. Designed an interactive Power BI dashboard with DAX measures, KPI cards, charts and slicers.
 
-## Evidence to publish next
+## Repository and evidence to publish next
+
+[Open PizzaSalesAnalysis](https://github.com/karan-mahalik/PizzaSalesAnalysis)
 
 - A de-identified sample dataset or a documented dataset source and schema
 - Reproducible SQL queries and business definitions for each KPI
