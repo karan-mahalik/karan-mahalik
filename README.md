@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://karan-mahalik-portfolio.vercel.app/" title="Explore Karan Mahalik's data analytics and Power BI portfolio">
+    <img src="assets/profile-header.svg" alt="Karan Mahalik — Data Analyst and Power BI Developer. Open portfolio website." width="100%" />
+  </a>
+</div>
+
 # Karan Mahalik
 **Data Analyst · Power BI Developer · SQL Developer**
 
@@ -5,7 +11,11 @@ I work with SQL, Power BI, Excel, and Python to turn structured data into clear 
 
 📍 Cuttack, Odisha, India · 🎓 B.Tech, Computer Science & Engineering, DRIEMS University (2022–2026)
 
-[LinkedIn](https://www.linkedin.com/in/karan-mahalik-122438369/) · [Email](mailto:karanmahalik88@gmail.com) · [Portfolio website source](docs/index.html)
+**🌐 Current portfolio:** [Explore my Data Analyst & Power BI portfolio](https://karan-mahalik-portfolio.vercel.app/) — my primary professional website.
+
+[**Featured analytics projects**](#featured-analytics-repositories-primary-focus) · [**Technical skills**](#focus-analytics-first-engineering-second) · [**Experience**](#experience--education) · [**LinkedIn**](https://www.linkedin.com/in/karan-mahalik-122438369/) · [**Portfolio**](https://karan-mahalik-portfolio.vercel.app/) · [**Email**](mailto:karanmahalik88@gmail.com)
+
+[GitHub portfolio page source](docs/index.html) (separate static reference, not the Vercel deployment)
 
 ## Focus: analytics first, engineering second
 
@@ -44,6 +54,6 @@ These repositories demonstrate the complementary software-development side of my
 
 Junior **Data Analyst**, **Power BI Developer**, and **SQL / BI Analyst** opportunities where I can apply business intelligence, database skills and practical reporting. I also bring full-stack experience to data-focused engineering collaborations.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/karan-mahalik-122438369/) · [karanmahalik88@gmail.com](mailto:karanmahalik88@gmail.com)
+**Connect:** [**LinkedIn**](https://www.linkedin.com/in/karan-mahalik-122438369/) · [**Portfolio**](https://karan-mahalik-portfolio.vercel.app/) · [**Email**](mailto:karanmahalik88@gmail.com)
 
 _Uploaded source assets are organized in both repositories; SQL Server and Power BI runtime validation and data-quality/privacy review remain pending. No certifications or performance numbers are claimed without evidence._
