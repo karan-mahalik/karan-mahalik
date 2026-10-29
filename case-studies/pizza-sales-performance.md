@@ -1,5 +1,7 @@
 # Pizza Sales Performance Analysis
 
+**🌐 Professional portfolio:** [Explore Karan Mahalik's data analyst and Power BI portfolio](https://karan-mahalik-portfolio.vercel.app/)
+
 **Focus:** sales performance, demand patterns, and product KPIs  
 **Tools reported in resume:** SQL Server, T-SQL, Power BI, DAX  
 **Evidence status:** This is a case-study summary based on Karan Mahalik's resume. A dedicated [PizzaSalesAnalysis repository](https://github.com/karan-mahalik/PizzaSalesAnalysis) now contains source-grounded documentation and illustrative SQL/DAX templates; the original pizza CSV, SQL script and PBIX are now **uploaded and organized**, but their runtime outputs and dashboard refresh are **not yet independently verified**. Results have not been independently reproduced.
