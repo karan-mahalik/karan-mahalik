@@ -1,0 +1,20 @@
+name: GitHub profile visual integrity
+on:
+  push:
+    paths:
+      - README.md
+      - assets/**
+      - credentials/**
+      - generative-ai/**
+      - scripts/validate_profile.py
+      - .github/workflows/validate-profile.yml
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate profile assets and links
+        run: python3 scripts/validate_profile.py

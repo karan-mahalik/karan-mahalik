@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title description"><title id="title">Karan Mahalik — Data Analyst and Power BI Developer</title><desc id="description">A clean profile header emphasizing SQL, Power BI and complementary software engineering.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1628"/><stop offset="1" stop-color="#153149"/></linearGradient></defs><rect x="1.5" y="1.5" width="1197" height="267" rx="21" fill="url(#bg)" stroke="#37546C" stroke-width="2"/>
+<rect x="43" y="37" width="4" height="185" rx="2" fill="#77E6D4"/>
+<text x="75" y="67" fill="#77E6D4" font-size="15" font-weight="700" letter-spacing="2" font-family="Arial,Helvetica,sans-serif">DATA ANALYTICS  /  BUSINESS INTELLIGENCE</text>
+<text x="72" y="120" fill="#F5FBFF" font-size="51" font-weight="700" font-family="Arial,Helvetica,sans-serif">Karan Mahalik</text>
+<text x="75" y="161" fill="#C3D6E5" font-size="22" font-family="Arial,Helvetica,sans-serif">Data Analyst  ·  Power BI Developer</text>
+<text x="75" y="193" fill="#C3D6E5" font-size="19" font-family="Arial,Helvetica,sans-serif">SQL Developer  ·  Software Engineering</text>
+<text x="75" y="237" fill="#77E6D4" font-size="17" font-family="Arial,Helvetica,sans-serif">SQL Server  ·  Power BI  ·  Excel  ·  Python</text>
+<rect x="820" y="36" width="335" height="199" rx="16" fill="#102438" stroke="#3B657D"/>
+<text x="844" y="68" font-family="Arial,Helvetica,sans-serif" fill="#F5FBFF" font-weight="700" font-size="17">ANALYTICS FIRST</text>
+<text x="844" y="93" font-family="Arial,Helvetica,sans-serif" fill="#AFC6D6" font-size="13">Supporting full-stack engineering skills</text>
+<g stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M846 187H1122" stroke="#355D72" stroke-width="2"/>
+<path d="M854 165L902 153L950 160L999 126L1048 117L1097 101" stroke="#77E6D4"/>
+</g>
+<g fill="#2B6E8B" opacity=".65"><rect x="844" y="166" width="21" height="21" rx="3"/><rect x="894" y="154" width="21" height="33" rx="3"/><rect x="942" y="161" width="21" height="26" rx="3"/><rect x="991" y="127" width="21" height="60" rx="3"/><rect x="1040" y="118" width="21" height="69" rx="3"/><rect x="1089" y="102" width="21" height="85" rx="3"/></g>
+<text x="845" y="216" font-family="Arial,Helvetica,sans-serif" fill="#AFC6D6" font-size="12">ILLUSTRATIVE VISUAL · NO CLAIMED METRICS</text>
+</svg>

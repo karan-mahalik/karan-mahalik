@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="226" viewBox="0 0 720 226" role="img" aria-labelledby="title description"><title id="title">Movie Suggestion App clickable card</title><desc id="description">Movie Suggestion App. React  ·  Vite  ·  OMDb API. SUPPORTING ENGINEERING.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1628"/><stop offset="1" stop-color="#153149"/></linearGradient></defs><rect x="1.5" y="1.5" width="717" height="223" rx="18" fill="url(#bg)" stroke="#37546C" stroke-width="2"/>
+ <rect x="27" y="26" width="4" height="173" rx="2" fill="#A7B9FF"/>
+ <text x="49" y="49" font-family="Arial,Helvetica,sans-serif" fill="#A7B9FF" font-size="13" font-weight="700" letter-spacing="1.4">SUPPORTING ENGINEERING</text>
+ <text x="48" y="99" font-family="Arial,Helvetica,sans-serif" fill="#F5FBFF" font-size="35" font-weight="700">Movie Suggestion</text>
+ <text x="48" y="141" font-family="Arial,Helvetica,sans-serif" fill="#F5FBFF" font-size="31" font-weight="700">App</text>
+ <path d="M48 169H535" stroke="#35566A" stroke-width="2"/>
+ <text x="49" y="197" font-family="Arial,Helvetica,sans-serif" fill="#C3D6E5" font-size="16">React  ·  Vite  ·  OMDb API</text>
+ <rect x="582" y="50" width="110" height="110" rx="17" stroke="#3B6D85" fill="#112D43"/>
+ <g transform="translate(604 72)" stroke="#A7B9FF" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="16" width="46" height="39" rx="5"/><path d="M9 27h46M19 17l7 10M36 17l7 10"/><path d="M25 35l15 8-15 7z"/></g>
+ <text x="590" y="194" font-family="Arial,Helvetica,sans-serif" fill="#A7B9FF" font-size="13" font-weight="700">VIEW REPO ↗</text>
+ </svg>

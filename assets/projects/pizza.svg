@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="226" viewBox="0 0 720 226" role="img" aria-labelledby="title description"><title id="title">Pizza Sales Performance Analysis clickable card</title><desc id="description">Pizza Sales Performance Analysis. SQL Server  ·  T-SQL  ·  Power BI. DATA ANALYTICS.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1628"/><stop offset="1" stop-color="#153149"/></linearGradient></defs><rect x="1.5" y="1.5" width="717" height="223" rx="18" fill="url(#bg)" stroke="#37546C" stroke-width="2"/>
+ <rect x="27" y="26" width="4" height="173" rx="2" fill="#F6B58B"/>
+ <text x="49" y="49" font-family="Arial,Helvetica,sans-serif" fill="#F6B58B" font-size="13" font-weight="700" letter-spacing="1.4">DATA ANALYTICS</text>
+ <text x="48" y="99" font-family="Arial,Helvetica,sans-serif" fill="#F5FBFF" font-size="35" font-weight="700">Pizza Sales</text>
+ <text x="48" y="141" font-family="Arial,Helvetica,sans-serif" fill="#F5FBFF" font-size="31" font-weight="700">Performance Analysis</text>
+ <path d="M48 169H535" stroke="#35566A" stroke-width="2"/>
+ <text x="49" y="197" font-family="Arial,Helvetica,sans-serif" fill="#C3D6E5" font-size="16">SQL Server  ·  T-SQL  ·  Power BI</text>
+ <rect x="582" y="50" width="110" height="110" rx="17" stroke="#3B6D85" fill="#112D43"/>
+ <g transform="translate(604 72)" stroke="#F6B58B" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8Q43-1 58 24L26 60Z"/><circle cx="31" cy="22" r="5"/><circle cx="46" cy="28" r="4"/><circle cx="30" cy="42" r="4"/></g>
+ <text x="590" y="194" font-family="Arial,Helvetica,sans-serif" fill="#F6B58B" font-size="13" font-weight="700">VIEW REPO ↗</text>
+ </svg>
