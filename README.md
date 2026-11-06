@@ -13,7 +13,7 @@ I work with SQL, Power BI, Excel, and Python to turn structured data into clear 
 
 **🌐 Current portfolio:** [Explore my Data Analyst & Power BI portfolio](https://karan-mahalik-portfolio.vercel.app/) — my primary professional website.
 
-[**Featured analytics projects**](#featured-analytics-repositories-primary-focus) · [**GenAI lab (planned)**](#generative-ai-project-lab-planned) · [**Technical skills**](#focus-analytics-first-engineering-second) · [**Experience**](#experience--education) · [**Internship evidence**](#internship-evidence) · [**LinkedIn**](https://www.linkedin.com/in/karan-mahalik-122438369/) · [**Portfolio**](https://karan-mahalik-portfolio.vercel.app/) · [**Email**](mailto:karanmahalik88@gmail.com)
+[**Featured analytics projects**](#featured-analytics-repositories-primary-focus) · [**GenAI lab (planned)**](#generative-ai-project-lab-planned) · [**Technical skills**](#focus-analytics-first-engineering-second) · [**Experience**](#experience--education) · [**Internship evidence**](#internship-evidence) · [**LinkedIn**](https://www.linkedin.com/in/karan-mahalik-122438369/) · [**Portfolio**](https://karan-mahalik-portfolio.vercel.app/) · [**Email**](mailto:karanmahalik2004@gmail.com)
 
 [GitHub portfolio page source](docs/index.html) (separate static reference, not the Vercel deployment)
 
